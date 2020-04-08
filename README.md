@@ -20,6 +20,7 @@
   - [Other sites](#other-sites)
   - [Related Awesome lists](#related-awesome-lists)
   - [Security videos from CCC](#security-videos-from-ccc)
+  - [Documentries](#documentries)
   - [License](#liscense)
 
 # Things to avoid
@@ -58,17 +59,21 @@
 ## Youtube alternatives
 >Youtube does not support freespeech and may remove your videos if they dont like
 >it
+>These dont have ads, algorythms
 - https://lbry.tv/ - Decentrilised and supports free speech
-- https://www.bitchute.com/ - supports free speech
-- https://bittube.tv/ - supports free speech
+- https://www.bitchute.com/ 
+- https://bittube.tv/ 
+- https://d.tube/ - You can change the video quality here
 
 ## Social Media
 >Facebook and twitter do no support freespeech and may remove your post if they
 >dont like it
-- [mastodon](https://mastodon.social/) - Decentrilesed facebook twitter hybrid app, supports
-  free speech
-- [minds](https://www.minds.com/) - supports free speech, but would recommend
-  mastodon over this
+>These dont have ads, data mining and algorythms
+- [mastodon](https://mastodon.social/) - decentrilesed facebook twitter hybrid app
+- [minds](https://www.minds.com/) - not to sure about this one, still better than facebook tho
+- [disporia](https://diasporafoundation.org) - not to familiar with this one
+- [hive](https://hive.blog/) - social media blogging site
+- [steemit](https://steemit.com) - cross between Reddit and Quora
 
 ## Video
 > Video conferencing software and chat
@@ -191,6 +196,7 @@ sudo mount -a
 - [Opensource ecology](https://www.opensourceecology.org/)
 - [riseup](https://riseup.net)
 - [EFF](https://www.eff.org/)
+- [libre-soc](https://libre-soc.org/) - open source hardware project
 
 # Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
@@ -209,12 +215,14 @@ sudo mount -a
 - [do you thing thats funny](https://media.ccc.de/v/30C3_-_5376_-_en_-_saal_1_-_201312271130_-_do_you_think_that_s_funny_-_lizvlx)
 - [advanced_interconnect_attacks](https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks)
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
-- [the intenets own boy](https://youtu.be/9vz06QO3UkQ)
+ 
+# Documentries
+- [citizen four](https://youtu.be/SVwnD9KKm6k) - Edward Snowden
+- [zero days](https://youtu.be/PJBBRUraKgo) -  Stuxnet, computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility
+- [the intenets own boy](https://youtu.be/9vz06QO3UkQ) - Aaron Swartz
 
 # Liscense
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 A big thank you to Lennart Heino for sending me this initial list that I have
 expanded upon
-
-
