@@ -71,11 +71,11 @@
   mastodon over this
 
 ## Video
+> Video conferencing software and chat
 - [jitsi](https://jitsi.org/)
 - [Tox](https://tox.chat)
 - [Ekiga](http://www.ekiga.org/)
 
- 
 ## Email
 >Use GPG mail if you know how.
 >E-Mail is a broken protocol and should not be used when ever possible. You
