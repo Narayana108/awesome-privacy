@@ -102,7 +102,6 @@
 ## Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Brave](https://brave.com/)
-- use a tmpfs for the case. See section "System".
  
 ## Browser Extensions
 > Be careful with addons. You cannot trust them but you also cannot use a browser without them. (Maybe the Tor browser)
