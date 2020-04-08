@@ -189,9 +189,9 @@ sudo mount -a
 - gopass
 
 # Other sites
-- (Opensource ecology)[https://www.opensourceecology.org/]
-- (riseup)[https://riseup.net]
-- (EFF)[https://www.eff.org/]
+- [Opensource ecology](https://www.opensourceecology.org/)
+- [riseup](https://riseup.net)
+- [EFF](https://www.eff.org/)
 
 # Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
