@@ -204,13 +204,13 @@ sudo mount -a
 # Security videos from CCC
 > Some videos on security, hacking, privacy
 - (security_analysis_of_estonia_s_internet_voting_system)[https://media.ccc.de/v/31c3_-_6344_-_en_-_saal_1_-_201412281400_-_security_analysis_of_estonia_s_internet_voting_system_-_j_alex_halderman]
-- (where_in_the_world_is_carmen_sandiego])[https://media.ccc.de/v/33c3-7964-where_in_the_world_is_carmen_sandiego]
-- (the_12_networking_truths)[https://media.ccc.de/v/33c3-8191-the_12_networking_truths]
-- (shopshifting)[https://media.ccc.de/v/32c3-7368-shopshifting]
-- (do you thing thats funny)[https://media.ccc.de/v/30C3_-_5376_-_en_-_saal_1_-_201312271130_-_do_you_think_that_s_funny_-_lizvlx]
-- (advanced_interconnect_attacks)[https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks]
-- (attacking_end-to-end_email_encryption)[https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption]
-- (the intenets own boy)[https://youtu.be/9vz06QO3UkQ]
+- [where_in_the_world_is_carmen_sandiego](https://media.ccc.de/v/33c3-7964-where_in_the_world_is_carmen_sandiego)
+- [the_12_networking_truths](https://media.ccc.de/v/33c3-8191-the_12_networking_truths)
+- [shopshifting](https://media.ccc.de/v/32c3-7368-shopshifting)
+- [do you thing thats funny](https://media.ccc.de/v/30C3_-_5376_-_en_-_saal_1_-_201312271130_-_do_you_think_that_s_funny_-_lizvlx)
+- [advanced_interconnect_attacks](https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks)
+- [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
+- [the intenets own boy](https://youtu.be/9vz06QO3UkQ)
 
 # Liscense
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
