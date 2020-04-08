@@ -12,7 +12,6 @@
     - [Social Media](#social-media)
     - [Video](#video)
     - [Email](#email)
-  - [Related awesome lists](#related-awesome-lists)
   - [Web browsers](#web-browsers)
     - [Browser extensions](#browser-extensions)
   - [OS](#OS)
