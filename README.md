@@ -78,8 +78,7 @@
 
 ## Email
 >Use GPG mail if you know how.
->E-Mail is a broken protocol and should not be used when ever possible. You
->cannot trust e-mail providers, especially gmail, yahoo, msn, outlook.com,
+>One cannot trust e-mail providers, especially gmail, yahoo, msn, outlook.com,
 >apple.com, <free service that belongs to a company>.com
 >Here are a few alternatives. Some don't cost anything, but I would recommend
 >posteo.de or mailbox.org (1 Euro / month).
