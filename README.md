@@ -19,8 +19,8 @@
   - [System](#system)
   - [Other sites](#other-sites)
   - [Related Awesome lists](#related-awesome-lists)
-  - [Security videos from CCC](#security-videos-from-ccc)
   - [Documentries](#documentries)
+  - [Security videos from CCC](#security-videos-from-ccc)
   - [License](#liscense)
 
 # Things to avoid
@@ -205,6 +205,11 @@ sudo mount -a
 - [Awesome anti censorship list](https://github.com/danoctavian/awesome-anti-censorship)
 - [Awesome list of piracy](https://github.com/Igglybuff/awesome-piracy#how-to-use-this-list)
 - [Complete list of Google alternatives](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
+ 
+# Documentries
+- [citizen four](https://youtu.be/SVwnD9KKm6k) - Edward Snowden
+- [zero days](https://youtu.be/PJBBRUraKgo) -  Stuxnet, computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility
+- [the intenets own boy](https://youtu.be/9vz06QO3UkQ) - Aaron Swartz
 
 # Security videos from CCC
 > Some videos on security, hacking, privacy
@@ -215,11 +220,6 @@ sudo mount -a
 - [do you thing thats funny](https://media.ccc.de/v/30C3_-_5376_-_en_-_saal_1_-_201312271130_-_do_you_think_that_s_funny_-_lizvlx)
 - [advanced_interconnect_attacks](https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks)
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
- 
-# Documentries
-- [citizen four](https://youtu.be/SVwnD9KKm6k) - Edward Snowden
-- [zero days](https://youtu.be/PJBBRUraKgo) -  Stuxnet, computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility
-- [the intenets own boy](https://youtu.be/9vz06QO3UkQ) - Aaron Swartz
 
 # Liscense
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
