@@ -34,10 +34,11 @@
 - Whatsapp
  
 # Things to do
-- Use Linux if possible
+> Use software created by the people for the people
+> Lets protect our freedom of speech which is under attack right now
 - Promote open source technologies
 - Promote privacy first software
-- Promote decentralisation
+- Promote blockchain/decentralisation
 - Avoid monopolies
 - Cryptocurrency is better that fake fait money
 - Chant Gods Holy names as per your religion or path, meditate and eat good
@@ -72,8 +73,10 @@
 - [mastodon](https://mastodon.social/) - decentrilesed facebook twitter hybrid app
 - [minds](https://www.minds.com/) - not to sure about this one, still better than facebook tho
 - [disporia](https://diasporafoundation.org) - not to familiar with this one
-- [hive](https://hive.blog/) - social media blogging site
-- [steemit](https://steemit.com) - cross between Reddit and Quora
+- [hive](https://hive.blog/) - blockchain social media platform - blogging - u can earn
+  crypto currency for your content
+- [steemit](https://steemit.com) - blockchain social media platform - cross between 
+  Reddit and Quora - you can earn crypto currency for your content
 
 ## Video
 > Video conferencing software and chat
