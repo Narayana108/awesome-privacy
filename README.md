@@ -14,7 +14,7 @@
   - [Web browsers](#web-browsers)
     - [Browser extensions](#browser-extensions)
   - [OS](#OS)
-  - [PhoneOS](#PhoneOS)
+  - [PhoneOS](#Phone-OS)
   - [PhoneApps](#Phone-apps)
   - [Password managers](#Password-managers)
   - [Other](#Other)
@@ -115,7 +115,7 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Brave](https://brave.com/) - Really nice browser for normies, doesnt need configuration
 - [bromite](https://www.bromite.org/)
-- [Tor Browser](https://www.torproject.org) - Most secure browser, all traffic is encryptep over the tor network
+- [Tor Browser](https://www.torproject.org) - Most secure browser, all traffic is encrypted over the tor network
  
 ## Browser Extensions
 > Be careful with addons. You cannot trust them but you also cannot use a browser without them. (Maybe the Tor browser)
@@ -171,32 +171,32 @@
 - [GrapheneOS](https://grapheneos.org/) -  Android-based, security-hardened, privacy focused (can't insall google dependencies)
 
 ## Phone apps
-- (apk verification tool)[https://apkpure.com/apk-signature-verification]
-- (F-Droid)[https://f-droid.org/] - Google playstore alternavtive, contains only opensource apps
+- [apk verification tool][https://apkpure.com/apk-signature-verification]
+- [F-Droid][https://f-droid.org/] - Google playstore alternavtive, contains only opensource apps
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat. (Whatsapp alternative)
 - [Briar](https://briarproject.org/) - Secure messaging
 - [Telegram](https://telegram.org/) - Not really secure, still better than whatsapp
-- (WebApps)[https://f-droid.org/en/packages/com.tobykurien.webapps/] - turns mobi/web app sites into secure apps
-- (Bromite for F-Droid)[https://www.bromite.org/fdroid] - private browser
-- (DuckDuckGo Privacy Browser)[https://f-droid.org/en/packages/com.duckduckgo.mobile.android/] - private browser
-- (Firefox Focus (Klar)[https://f-droid.org/en/packages/org.mozilla.klar/] - private browser
-- (New Pipe)[https://f-droid.org/en/packages/org.schabi.newpipe/] - adfree lightweight youtube app
-- (OsmAnd)[https://osmand.net/] - offline mobile maps & navigation
-- K-9 client https://k9mail.app/ - email client
-- Fair Email client https://email.faircode.eu/ - email client
-- (Netguard)[https://www.netguard.me/] - application firewall (Andriod)
-- (Lockdown)[https://lockdownhq.com/] - application firewall (iOS)
-- (Simple Apps) [https://www.simplemobiletools.com/] - all can be found on F-Droid 
+- [WebApps](https://f-droid.org/en/packages/com.tobykurien.webapps/) - turns mobi/web app sites into secure apps
+- [Bromite for F-Droid](https://www.bromite.org/fdroid) - private browser
+- [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/) - private browser
+- (Firefox Focus (Klar)(https://f-droid.org/en/packages/org.mozilla.klar/) - private browser
+- [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - adfree lightweight youtube app
+- [OsmAnd](https://osmand.net/) - offline mobile maps & navigation
+- [K-9 client](https://k9mail.app/) - email client
+- [Fair Email client](https://email.faircode.eu/) - email client
+- [Netguard](https://www.netguard.me/) - application firewall (Andriod)
+- [Lockdown](https://lockdownhq.com/) - application firewall (iOS)
+- [Simple Apps](https://www.simplemobiletools.com/) - all can be found on F-Droid 
 
 ## Password managers
-- (Bitwarden)[https://bitwarden.com/] 
-- (KeepassXC)[https://keepassxc.org/]
-- (gopass)[https://www.gopass.pw/] - team sharing cli password manager
+- [Bitwarden](https://bitwarden.com/) 
+- [KeepassXC](https://keepassxc.org/)
+- [gopass](https://www.gopass.pw/) - team sharing cli password manager
 
 ## Others
-(Nextcloud)[https://www.nextcloud.com] - self-hosted productivity platform
-(Veracrypt)[https://www.veracrypt.fr] - disk encryption software for Windows, Mac OSX and Linux.
-(Cryptomator)[https://cryptomator.org/] - encrypt backups before sending it to the cloud
+- [Nextcloud](https://www.nextcloud.com) - self-hosted productivity platform
+- [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
+- [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
 
 # System
 - You want your cache to be a tmpfs which means it lives in RAM -> faster and
@@ -262,14 +262,14 @@ sudo mount -a
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
 
 # Youtube
-- (How to protect your online privacy in 2020 | Tutorial)[https://youtu.be/jxeeKKfjb5o]
-- (Ultimate smartphone security guide | How to secure your phone tutorial)[https://youtu.be/m_SN1CB3Kts]
-- (How to protect privacy on your phone in 5 minutes | Tutorial for normies)[https://youtu.be/tkY9dhOF2WU]
+- [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
+- [Ultimate smartphone security guide | How to secure your phone tutorial](https://youtu.be/m_SN1CB3Kts)
+- [How to protect privacy on your phone in 5 minutes | Tutorial for normies](https://youtu.be/tkY9dhOF2WU)
 
 # Articles
-- (Google tracks you everywhere)[https://www.forbes.com/sites/johnkoetsier/2020/03/11/google-is-tracking-you-on-86-of-the-top-50000-websites-on-the-planet/#40691ed9750f]
-- (Third party trackers in mobile apps) [https://arxiv.org/pdf/1804.03603.pdf]
-- (Secret consumer score)[https://www.nytimes.com/2018/11/04/business/secret-consumer-score-access.html]
+- [Google tracks you everywhere](https://www.forbes.com/sites/johnkoetsier/2020/03/11/google-is-tracking-you-on-86-of-the-top-50000-websites-on-the-planet/#40691ed9750f)
+- [Third party trackers in mobile apps](https://arxiv.org/pdf/1804.03603.pdf)
+- [Secret consumer score](https://www.nytimes.com/2018/11/04/business/secret-consumer-score-access.html)
 
 # Liscense
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
