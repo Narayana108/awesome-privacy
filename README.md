@@ -179,7 +179,7 @@
 - [WebApps](https://f-droid.org/en/packages/com.tobykurien.webapps/) - turns mobi/web app sites into secure apps
 - [Bromite for F-Droid](https://www.bromite.org/fdroid) - private browser
 - [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/) - private browser
-- (Firefox Focus (Klar)(https://f-droid.org/en/packages/org.mozilla.klar/) - private browser
+- [Firefox Focus](https://f-droid.org/en/packages/org.mozilla.klar/) - private browser
 - [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - adfree lightweight youtube app
 - [OsmAnd](https://osmand.net/) - offline mobile maps & navigation
 - [K-9 client](https://k9mail.app/) - email client
@@ -274,5 +274,6 @@ sudo mount -a
 # Liscense
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-A big thank you to Lennart Heino for sending me this initial list that I have
-expanded upon
+Credits:
+- The hated one
+- lennart Heino 
