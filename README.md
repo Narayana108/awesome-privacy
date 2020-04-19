@@ -15,7 +15,7 @@
     - [Browser extensions](#browser-extensions)
   - [OS](#OS)
   - [PhoneOS](#Phone-OS)
-  - [PhoneApps](#Phone-apps)
+  - [Andriod Apps](#Andriod-apps)
   - [Password managers](#Password-managers)
   - [Other](#Other)
   - [System](#system)
@@ -170,7 +170,7 @@
 - [LineageOS](https://lineageos.org) - Android fork without google dependencies (you can install them optionally).
 - [GrapheneOS](https://grapheneos.org/) -  Android-based, security-hardened, privacy focused (can't insall google dependencies)
 
-## Phone apps
+## Andriod apps
 - [apk verification tool](https://apkpure.com/apk-signature-verification)
 - [F-Droid](https://f-droid.org/) - Google playstore alternavtive, contains only opensource apps
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat. (Whatsapp alternative)
@@ -184,6 +184,9 @@
 - [OsmAnd](https://osmand.net/) - offline mobile maps & navigation
 - [K-9 client](https://k9mail.app/) - email client
 - [Fair Email client](https://email.faircode.eu/) - email client
+- [andOTP](https://github.com/andOTP/andOTP) - two-factor authentication
+- [freeOTP](https://freeotp.github.io/) - two-factor authentication
+- [OTP Authenticator](https://f-droid.org/en/packages/net.bierbaumer.otp_authenticator/) - two-factor authentication
 - [Netguard](https://www.netguard.me/) - application firewall (Andriod)
 - [Lockdown](https://lockdownhq.com/) - application firewall (iOS)
 - [Simple Apps](https://www.simplemobiletools.com/) - all can be found on F-Droid 
@@ -274,6 +277,5 @@ sudo mount -a
 # Liscense
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Credits:
-- The hated one
-- lennart Heino 
+A big thank you to Lennart Heino for sending me this initial list that I have
+expanded upon
