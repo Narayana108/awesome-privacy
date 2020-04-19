@@ -62,11 +62,11 @@
 >Youtube does not support freespeech and may remove your videos if they dont like
 >it
 >These dont have ads, algorythms
-- [lbry](https://lbry.tv/ - Decentrilised
+- [lbry](https://lbry.tv/) - Decentrilised
 - [bitchute](https://www.bitchute.com/)
 - [bittube](https://bittube.tv/)
 - [dtube](https://d.tube/) - You can change the video quality here
-- (Invidious)[https://www.invidio.us] - watch youtube anonymously
+- [Invidious](https://www.invidio.us) - watch youtube anonymously
 
 ## Social Media
 >Facebook and twitter do no support freespeech and may remove your post if they
