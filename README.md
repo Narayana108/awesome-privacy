@@ -49,7 +49,7 @@
   
 # Search engines
 - [DuckDuckGo](https://duckduckgo.com) - Search engine that doesn't track you.
-- [StartPage](https://www.startpage.com/) - Search engine that gives you google that returns google results
+- [StartPage](https://www.startpage.com/) - Search engine that returns google results
 - [Searx](https://www.searx.me) -  non tracking internet metasearch engine
 
 # Communication
