@@ -158,6 +158,7 @@
 >openVPN they offer wireguard (this deserves a whole section) c) really good support
 
 >Don't trust free services.
+
 >If you can, use tor instead of a vpn, its much more secure and private, tho it
 >is slower
 
