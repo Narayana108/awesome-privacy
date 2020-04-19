@@ -73,9 +73,9 @@
 >dont like it
 >These dont have ads, data mining and algorythms
 - [mastodon](https://mastodon.social/) - decentrilesed facebook twitter hybrid app
-- [minds](https://www.minds.com/) - not to sure about this one, still better than facebook tho
-- [disporia](https://diasporafoundation.org) - not to familiar with this one
-- [hive](https://hive.blog/) - blockchain social media platform - blogging - u can earn
+- [minds](https://www.minds.com/)  
+- [disporia](https://diasporafoundation.org) 
+- [hive](https://hive.blog/) - blockchain social media platform - blogging - you can earn
   crypto currency for your content
 - [steemit](https://steemit.com) - blockchain social media platform - cross between 
   Reddit and Quora - you can earn crypto currency for your content
@@ -132,7 +132,7 @@
 - [decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?src=search)
 
 ## Other browser settings
-- https://github.com/pyllyukko/user.js # take your time with this one
+- https://github.com/pyllyukko/user.js - take your time with this one
 - Make sure in `about:config` "privacy.resistFingerprinting" is set to "true"
 
 # Storage
@@ -158,7 +158,7 @@
 >openVPN they offer wireguard (this deserves a whole section) c) really good support
 
 >Don't trust free services.
->If you can use tor instead of a vpn, its much more secure and private, tho it
+>If you can, use tor instead of a vpn, its much more secure and private, tho it
 >is slower
 
 - [VPN Comparison list](https://thatoneprivacysite.net/)
@@ -171,8 +171,8 @@
 - [GrapheneOS](https://grapheneos.org/) -  Android-based, security-hardened, privacy focused (can't insall google dependencies)
 
 ## Phone apps
-- [apk verification tool][https://apkpure.com/apk-signature-verification]
-- [F-Droid][https://f-droid.org/] - Google playstore alternavtive, contains only opensource apps
+- [apk verification tool](https://apkpure.com/apk-signature-verification)
+- [F-Droid](https://f-droid.org/) - Google playstore alternavtive, contains only opensource apps
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat. (Whatsapp alternative)
 - [Briar](https://briarproject.org/) - Secure messaging
 - [Telegram](https://telegram.org/) - Not really secure, still better than whatsapp
