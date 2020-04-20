@@ -165,6 +165,7 @@
 >is slower
 
 - [VPN Comparison list](https://thatoneprivacysite.net/)
+- mullvad.net
 
 ## OS
 - [TailsOS](https://tails.boum.org/)
@@ -178,7 +179,6 @@
 - [F-Droid](https://f-droid.org/) - Google playstore alternavtive, contains only opensource apps
 - [Signal](https://whispersystems.org/) - Free peer reviewed scalable encryption chat. (Whatsapp alternative)
 - [Briar](https://briarproject.org/) - Secure messaging
-- [Telegram](https://telegram.org/) - Not really secure, still better than whatsapp
 - [WebApps](https://f-droid.org/en/packages/com.tobykurien.webapps/) - turns mobi/web app sites into secure apps
 - [Bromite for F-Droid](https://www.bromite.org/fdroid) - private browser
 - [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/) - private browser
