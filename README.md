@@ -166,7 +166,6 @@
 >is slower
 
 - [VPN Comparison list](https://thatoneprivacysite.net/)
-- mullvad.net
 
 ## OS
 - [TailsOS](https://tails.boum.org/)
