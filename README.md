@@ -28,24 +28,26 @@
   - [License](#liscense)
 
 # Things to avoid
-> These companies are evil, and should be avoided if possible.
-> All software and devices that they produce should also be avoided if possible
-- Apple
-- Microsoft
-- Google
-- Facebook
-- Youtube
-- Whatsapp
+- All services and products from big evil monopolies like these:
+  - Apple
+  - Microsoft
+  - Google, Youtube, Gmail, etc
+  - Facebook & Whatsapp
+  - Amazon
+  - etc..
+> Basically these companies do not respect our basic privacy rights nor are they 
+> honest. They are creating an unjust surveillanced prison state only through 
+> our empowerment. There are great alternatives for 90% of things, its basically 
+> only open source hardware that is lacking and people willing to do the right thing.
  
 # Things to do
 > Use software created by the people for the people
 > Lets protect our freedom of speech which is under attack right now
 - Promote open source technologies
 - Promote privacy first software
-- Promote blockchain/decentralisation
-- Cryptocurrency is better that fake fait money
-- Chant Gods Holy names as per your religion or path, meditate and eat good
-  healthy vegeterian foods
+- Promote blockchain and decentralisation
+- Educate yourself and become more technology concious. 
+- Pray and meditate as per your religion or path and eat good healthy vegeterian foods.
   
 # Search engines
 - [DuckDuckGo](https://duckduckgo.com) - Search engine that doesn't track you.
