@@ -270,6 +270,7 @@ sudo mount -a
 - [do you thing thats funny](https://media.ccc.de/v/30C3_-_5376_-_en_-_saal_1_-_201312271130_-_do_you_think_that_s_funny_-_lizvlx)
 - [advanced_interconnect_attacks](https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks)
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
+- < ADD CCC LAST BIT OF CCC VIDS HERE >
 
 # Youtube
 - [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
