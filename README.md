@@ -41,8 +41,9 @@
 > only open source hardware that is lacking and people willing to do the right thing.
  
 # Things to do
-> Use software created by the people for the people
-> Lets protect our freedom of speech which is under attack right now
+> Use software created by the people for the people.
+> Lets protect our freedom of speech which is under attack right now before we
+> end up like China
 - Promote open source technologies
 - Promote privacy first software
 - Promote blockchain and decentralisation
@@ -192,6 +193,8 @@
 - [andOTP](https://github.com/andOTP/andOTP) - two-factor authentication
 - [freeOTP](https://freeotp.github.io/) - two-factor authentication
 - [OTP Authenticator](https://f-droid.org/en/packages/net.bierbaumer.otp_authenticator/) - two-factor authentication
+- [Scrambled Exif](https://f-droid.org/app/com.jarsilio.android.scrambledeggsif) - Remove the metadata from your pictures before sharing them
+- [Exodus Privacy](https://f-droid.org/app/org.eu.exodus_privacy.exodusprivacy) - Show trackers and permissions from other installed apps
 - [Netguard](https://www.netguard.me/) - application firewall (Andriod)
 - [Lockdown](https://lockdownhq.com/) - application firewall (iOS)
 - [Simple Apps](https://www.simplemobiletools.com/) - all can be found on F-Droid 
