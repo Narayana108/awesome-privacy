@@ -181,6 +181,8 @@
 - [Bromite for F-Droid](https://www.bromite.org/fdroid) - private browser
 - [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/) - private browser
 - [Firefox Focus](https://f-droid.org/en/packages/org.mozilla.klar/) - private browser
+- [Tor](https://guardianproject.info/apps/org.torproject.torbrowser/) - private browser that anonymouses and encypts traffic through tor network
+- [Orbit](https://guardianproject.info/apps/orbot/) - encrypt and anonymous internet traffic through tor
 - [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/) - adfree lightweight youtube app
 - [OsmAnd](https://osmand.net/) - offline mobile maps & navigation
 - [K-9 client](https://k9mail.app/) - email client
