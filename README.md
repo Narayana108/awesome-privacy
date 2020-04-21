@@ -18,7 +18,7 @@
   - [Andriod Apps](#andriod-apps)
   - [Password managers](#password-managers)
   - [Other](#Other)
-  - [Linux](#Linux)
+  - [Linux Tools](#Linux-tools)
   - [Other sites](#other-sites)
   - [Related Awesome lists](#related-awesome-lists)
   - [Documentries](#documentries)
@@ -227,7 +227,7 @@ depending on your needs and wants.
 - [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
 
-## Linux 
+## Linux Tools
 - full disk encryption
 - linux hardened kernel
 - [Security](https://wiki.archlinux.org/index.php/Security)
