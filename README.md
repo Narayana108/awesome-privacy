@@ -12,7 +12,7 @@
     - [Video](#video)
     - [Email](#email)
   - [Web browsers](#web-browsers)
-    - [Browser extensions](#browser-extensions)
+    - [Web Browser extensions](#web-browser-extensions)
   - [Operating Systems](#operating-systems)
   - [Andriod Roms](#andriod-roms)
   - [Andriod Apps](#andriod-apps)
@@ -113,13 +113,13 @@
 - [neomutt](https://neomutt.org/) - cli based email client
 
 
-## Browsers
+## Web Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Needs extentions and one can also set more strict privacy browsing rules within preferences
 - [Brave](https://brave.com/) - Really nice browser for normies, doesnt need configuration
 - [bromite](https://www.bromite.org/)
 - [Tor Browser](https://www.torproject.org) - Most secure browser, all traffic is encrypted over the tor network
  
-## Browser Extensions
+## Web Browser Extensions
 > Be careful with addons. You cannot trust them but you also cannot use a browser without them.
 - [Browser privacy checker](https://panopticlick.eff.org/)
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
