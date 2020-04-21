@@ -38,7 +38,7 @@
 > Basically these companies do not respect our basic privacy rights nor are they 
 > honest. They are helping to creating an unjust surveillanced prison state only through 
 > our empowerment. There are great alternatives for 90% of things, its basically 
-> only open source hardware that is lacking and people willing to do the right thing.
+> just open source hardware and people willing to do the right thing that is lacking
  
 # Things to do
 > Use software created by the people for the people.
@@ -51,6 +51,7 @@
 - Pray and meditate as per your religion or path and eat good healthy vegeterian foods.
   
 # Search engines
+> Google alternatives
 - [DuckDuckGo](https://duckduckgo.com) - Search engine that doesn't track you.
 - [StartPage](https://www.startpage.com/) - Search engine that returns google results
 - [Searx](https://www.searx.me) -  non tracking internet metasearch engine
@@ -72,8 +73,8 @@
 - [Invidious](https://www.invidio.us) - watch youtube anonymously
 
 ## Social Media
->Facebook and twitter do no support freespeech and may remove your post if they
->dont like it
+>Facebook and twitter do no support freespeech, your content may be removed if
+>they dont like it
 >These dont have ads, data mining and algorythms
 - [mastodon](https://mastodon.social/) - decentrilesed facebook twitter hybrid app
 - [minds](https://www.minds.com/)  
@@ -91,14 +92,13 @@
 
 ## Email
 >Use GPG mail if you know how.
->Here are a few alternatives. Some don't cost anything, but I would recommend
+>Some don't cost anything, but I would recommend
 >posteo.de or mailbox.org (1 Euro / month).
 >Never take an American, Australian, Canadian, British or New Zealandish provider.
 >European online privacy laws are the best at the moment. The Netherlands are
 >doing a good job in enforcing them. Germany isn't bad either. But the whole
 >climate in Europe is changing. Law enforcement agencies in  Europe want direct
->access to e-mail providers; we are not there yet. Again, don't use e-mail when
->you can avoid it.
+>access to e-mail providers; we are not there yet.
 >Create an alias or temporary alias for every website (like takealot.co.za) you
 >create a new account. I know, this is cumbersome, but there is no other way
 >around.
@@ -166,7 +166,27 @@
 - [VPN Comparison list](https://thatoneprivacysite.net/)
 
 ## OS
-- [TailsOS](https://tails.boum.org/)
+> Use GNU/Linux ! There are many many different flavours to choose from
+depending on your needs and wants.
+- [TailsOS](https://tails.boum.org/) - Most secure and private, boots off a usb
+- [distrowatch](https://distrowatch.com/) - A list of the most popular GNU/Linux OS's 
+- Beginners: 
+  - Manjaro Linux(https://manjaro.org/)
+  - Pop!_OS(https://system76.com/pop)
+  - Linux Mint(https://linuxmint.com/)
+  - Ubuntu(https://ubuntu.com/download/desktop)
+  - LUbuntu(https://lubuntu.me/)
+  - Elementary(https://elementary.io/)
+  - etc..
+- Advanced:
+  - Debian(https://www.debian.org/distrib/)
+  - Arch Linux(https://www.archlinux.org/)
+  - Void Linux(https://voidlinux.org/)
+  - Gentoo(https://www.gentoo.org/)
+  - NixOS(https://nixos.org/)
+  - TrueOS(https://www.trueos.org/)
+  - Parabola(https://www.parabola.nu/)
+  - etc..
 
 ## Phone OS
 - [LineageOS](https://lineageos.org) - Android fork without google dependencies (you can install them optionally).
