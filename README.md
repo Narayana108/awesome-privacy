@@ -137,7 +137,7 @@
 
 # Storage
 - [Sia](https://sia.tech/get-started) - Decentrilesed 
-- [SpiderOak](https://spideroak.com/) - Highly recommended
+- [SpiderOak One Backup](https://spideroak.com/one/) - Highly recommended
 - [Mega](https://mega.nz/) - Not highly recommended but still better than Dropbox,googledrive,onedrive, etc.
 
 
