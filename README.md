@@ -17,7 +17,6 @@
   - [Andriod Roms](#andriod-roms)
   - [Andriod Apps](#andriod-apps)
   - [Password managers](#password-managers)
-  - [Other](#Other)
   - [Linux Tools](#Linux-tools)
   - [Other sites](#other-sites)
   - [Related Awesome lists](#related-awesome-lists)
