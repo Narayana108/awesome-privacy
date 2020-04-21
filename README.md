@@ -160,7 +160,7 @@
 
 >Don't trust free services.
 
->If you can, use tor instead of a vpn, its much more secure and private, tho it
+>If you can, use Tor instead of a VPN, its much more secure and private, tho it
 >is slower
 
 - [VPN Comparison list](https://thatoneprivacysite.net/)
