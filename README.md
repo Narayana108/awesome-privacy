@@ -24,7 +24,6 @@
   - [Security videos from CCC](#security-videos-from-ccc)
   - [Basic privacy tutorials](#basic-privacy-tutorials)
   - [Articles](#Articles)
-  - [License](#liscense)
 
 # Things to avoid
 - All services and products from big evil monopolies like these:
@@ -234,16 +233,17 @@ depending on your needs and wants.
 - [apparmor](https://wiki.archlinux.org/index.php/AppArmor) - enforcing a specific rule set on a per application basis
 - [systemd-nspawn](https://wiki.archlinux.org/index.php/Systemd-nspawn) - may be used to run a command or OS in a light-weight namespace container
 - [unbound](https://wiki.archlinux.org/index.php/Unbound) - local DNS cach
-- [tinc](https://wiki.archlinux.org/index.php/Tinc) - VPN daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet.
-- [wireguard](https://www.wireguard.com/) - VPN client
-- [openvpn](https://wiki.archlinux.org/index.php/OpenVPN) - VPN client
+- [tinc](https://wiki.archlinux.org/index.php/Tinc) - VPN  server and client
+- [wireguard](https://www.wireguard.com/) - VPN server and client
+- [openvpn](https://wiki.archlinux.org/index.php/OpenVPN) - VPN server and client
 - [sshfs](https://wiki.archlinux.org/index.php/SSHFS) -  client for mounting remote directories over a Secure Shell connection
-- [masscan](https://github.com/robertdavidgraham/masscan) - IP port scanner (monitor your own network)
+- [masscan](https://github.com/robertdavidgraham/masscan) - mass IP port scanner (Monitor large networks)
+- [nmap](https://wiki.archlinux.org/index.php/Nmap) - IP port scanner (Monitor self or small network)
 - [zmap](https://zmap.io/) - collection of tools that enable researchers to perform large-scale studies of the hosts and services 
 - [iptables](https://wiki.archlinux.org/index.php/Iptables) - advanced firewall
-- [ufw](https://help.ubuntu.com/community/UFW) - simple firewall for debian based linux derivatives
-- [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8) - simple firewall for centos type linux derivatives
-- [encfs](https://github.com/vgough/encfs) - encrypted Filesystem
+- [ufw](https://help.ubuntu.com/community/UFW) - simple firewall
+- [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8) - simple firewall
+- [encfs](https://github.com/vgough/encfs) - encrypted filesystem
 - [creat_ap](https://github.com/oblique/create_ap) - Create an access point for others to connet to the internet
 - [mac adress spoofing](https://wiki.archlinux.org/index.php/MAC_address_spoofing)
 - [dig](https://linux.die.net/man/1/dig) - DNS lookup utility 
@@ -256,8 +256,7 @@ depending on your needs and wants.
   rm -r $HOME/.cache/*
   # put this in your /etc/fstab (change <your user name>)
   tmpfs	/home/<your user name>/.cache	tmpfs	noatime,nodev,nosuid,size=1G
-  # mount the tmpfs
-  sudo mount -a
+  # mount the tmpfs sudo mount -a
   ```
 
 # Other sites
@@ -301,10 +300,3 @@ depending on your needs and wants.
 # Articles
 - [Google tracks you everywhere](https://www.forbes.com/sites/johnkoetsier/2020/03/11/google-is-tracking-you-on-86-of-the-top-50000-websites-on-the-planet/#40691ed9750f)
 - [Third party trackers in mobile apps](https://arxiv.org/pdf/1804.03603.pdf)
-
-# Liscense
-[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-Credits:
-- The Hated One
-- Lennart Heino 
