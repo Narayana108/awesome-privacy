@@ -244,7 +244,7 @@ depending on your needs and wants.
 - [ufw](https://help.ubuntu.com/community/UFW) - simple firewall
 - [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8) - simple firewall
 - [encfs](https://github.com/vgough/encfs) - encrypted filesystem
-- [creat_ap](https://github.com/oblique/create_ap) - Create an access point for others to connet to the internet
+- [creat_ap](https://github.com/oblique/create_ap) - Create an access point for others to connet to
 - [mac adress spoofing](https://wiki.archlinux.org/index.php/MAC_address_spoofing)
 - [dig](https://linux.die.net/man/1/dig) - DNS lookup utility 
 - [socat](https://linux.die.net/man/1/socat) - multipurpose relay (SOcket CAT) 
