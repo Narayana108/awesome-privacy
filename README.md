@@ -14,9 +14,9 @@
   - [Web browsers](#web-browsers)
     - [Browser extensions](#browser-extensions)
   - [Operating Systems](#operating-systems)
-  - [PhoneOS(Andriod Roms)](#Phone-OS(AndriodRoms))
-  - [Andriod Apps](#Andriod-apps)
-  - [Password managers](#Password-managers)
+  - [Andriod Roms](#andriod-roms)
+  - [Andriod Apps](#andriod-apps)
+  - [Password managers](#password-managers)
   - [Other](#Other)
   - [Linux](#Linux)
   - [Other sites](#other-sites)
@@ -188,7 +188,8 @@ depending on your needs and wants.
   - [Parabola](https://www.parabola.nu/)
   - etc..
 
-## Phone OS (Andriod Roms)
+## Andriod Roms
+> Phone operating systems
 - [LineageOS](https://lineageos.org) - Android fork without google dependencies (you can install them optionally).
 - [GrapheneOS](https://grapheneos.org/) -  Android-based, security-hardened, privacy focused (can't insall google dependencies)
 
