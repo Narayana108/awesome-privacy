@@ -171,21 +171,21 @@ depending on your needs and wants.
 - [TailsOS](https://tails.boum.org/) - Most secure and private, boots off a usb
 - [distrowatch](https://distrowatch.com/) - A list of the most popular GNU/Linux OS's 
 - Beginners: 
-  - Manjaro Linux(https://manjaro.org/)
-  - Pop!_OS(https://system76.com/pop)
-  - Linux Mint(https://linuxmint.com/)
-  - Ubuntu(https://ubuntu.com/download/desktop)
-  - LUbuntu(https://lubuntu.me/)
-  - Elementary(https://elementary.io/)
+  - [Manjaro Linux](https://manjaro.org/)
+  - [Pop!_OS](https://system76.com/pop)
+  - [Linux Mint](https://linuxmint.com/)
+  - [Ubuntu](https://ubuntu.com/download/desktop)
+  - [LUbuntu](https://lubuntu.me/)
+  - [Elementary](https://elementary.io/)
   - etc..
 - Advanced:
-  - Debian(https://www.debian.org/distrib/)
-  - Arch Linux(https://www.archlinux.org/)
-  - Void Linux(https://voidlinux.org/)
-  - Gentoo(https://www.gentoo.org/)
-  - NixOS(https://nixos.org/)
-  - TrueOS(https://www.trueos.org/)
-  - Parabola(https://www.parabola.nu/)
+  - [Debian](https://www.debian.org/distrib/)
+  - [Arch Linux](https://www.archlinux.org/)
+  - [Void Linux](https://voidlinux.org/)
+  - [Gentoo](https://www.gentoo.org/)
+  - [NixOS](https://nixos.org/)
+  - [TrueOS](https://www.trueos.org/)
+  - [Parabola](https://www.parabola.nu/)
   - etc..
 
 ## Phone OS
