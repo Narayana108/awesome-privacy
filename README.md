@@ -281,7 +281,6 @@
 # Articles
 - [Google tracks you everywhere](https://www.forbes.com/sites/johnkoetsier/2020/03/11/google-is-tracking-you-on-86-of-the-top-50000-websites-on-the-planet/#40691ed9750f)
 - [Third party trackers in mobile apps](https://arxiv.org/pdf/1804.03603.pdf)
-- [Secret consumer score](https://www.nytimes.com/2018/11/04/business/secret-consumer-score-access.html)
 
 # Liscense
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
