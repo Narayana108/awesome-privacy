@@ -18,7 +18,7 @@
   - [Andriod Apps](#Andriod-apps)
   - [Password managers](#Password-managers)
   - [Other](#Other)
-  - [System](#system)
+  - [Linux](#Linux)
   - [Other sites](#other-sites)
   - [Related Awesome lists](#related-awesome-lists)
   - [Documentries](#documentries)
@@ -43,11 +43,11 @@
 # Things to do
 > Use software created by the people for the people.
 > Lets protect our freedom of speech which is under attack right now before we
-> end up like China
-- Promote open source technologies
-- Promote privacy first software
-- Promote blockchain and decentralisation
-- Educate yourself and become more technology concious. 
+> end up like China, which is just a taste of whats coming.
+- Promote and use open source technologies
+- Promote and use privacy first software
+- Promote and use blockchain and decentralisation
+- Educate yourself and become more technology concious. Its good to know where your food comes from right?  
 - Pray and meditate as per your religion or path and eat good healthy vegeterian foods.
   
 # Search engines
@@ -57,9 +57,9 @@
 
 # Communication
 ## Chat
-- [Riot](https://riot.im) - Feature rich, Encrypted chat messenger for phone and pc simalar
-- [Keybase](https://keybase.io/) - Feature rich, Encrypted chat messenger for phone and pc simalar
-- [Semaphor](https://spideroak.com/semaphor/) - Feature rich, Encrypted chat messenger for phone and pc simalar
+- [Riot](https://riot.im) - Feature rich, encrypted chat messenger for phone and pc simalar
+- [Keybase](https://keybase.io/) - Feature rich, encrypted chat messenger for phone and pc simalar
+- [Semaphor](https://spideroak.com/semaphor/) - Feature rich, encrypted chat messenger for phone and pc simalar
 
 ## Youtube alternatives
 >Youtube does not support freespeech and may remove your videos if they dont like
@@ -91,8 +91,6 @@
 
 ## Email
 >Use GPG mail if you know how.
->One cannot trust e-mail providers, especially gmail, yahoo, msn, outlook.com,
->apple.com, <free service that belongs to a company>.com
 >Here are a few alternatives. Some don't cost anything, but I would recommend
 >posteo.de or mailbox.org (1 Euro / month).
 >Never take an American, Australian, Canadian, British or New Zealandish provider.
@@ -112,16 +110,17 @@
 - [mailfence](https://mailfence.com/)
 - [Thunderbird](https://www.thunderbird.net/) - email client
 - [mutt](http://www.mutt.org/) - cli based email client
+- [neomutt](https://neomutt.org/) - cli based email client
 
 
 ## Browsers
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Needs extentions and one can also set more strict privacy browsing rules within preferences
 - [Brave](https://brave.com/) - Really nice browser for normies, doesnt need configuration
 - [bromite](https://www.bromite.org/)
 - [Tor Browser](https://www.torproject.org) - Most secure browser, all traffic is encrypted over the tor network
  
 ## Browser Extensions
-> Be careful with addons. You cannot trust them but you also cannot use a browser without them. (Maybe the Tor browser)
+> Be careful with addons. You cannot trust them but you also cannot use a browser without them.
 - [Browser privacy checker](https://panopticlick.eff.org/)
 - [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
@@ -132,7 +131,7 @@
 - [Firefox Profilemaker](https://ffprofile.com/) - Creates privacy focused Firefox profiles
 - [Random user agent](https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/)
 - [umatix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search)- deny cookies, XHR, frames, scripts also for first parties, activate is manually only if necessary
-- [decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?src=search)
+- [decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?src=search) - portection against tracking
 
 ## Other browser settings
 - https://github.com/pyllyukko/user.js - take your time with this one
@@ -141,14 +140,13 @@
 # Storage
 - [Sia](https://sia.tech/get-started) - Decentrilesed 
 - [SpiderOak](https://spideroak.com/) - Highly recommended
-- [Mega](https://mega.nz/) - Not highly recommended but still better that
-  Dropbox,googledrive,onedrive, etc.
+- [Mega](https://mega.nz/) - Not highly recommended but still better than Dropbox,googledrive,onedrive, etc.
 
 
 # VPN
 >You want to use a VPN, always!
 >And also as always, you can not trust VPN providers, but I trust Internet service
->provicers (ISPs), like Vodacom, MTN, Telkom, ..., even less.
+>provicers (ISPs), like Vodacom, MTN, Telkom, etc, even less.
 >But back to "always". If your VPN is offline all of your traffic should not make
 >it through. There are ways of doing this. I mainly use SOCKS5 proxies.
 >It works like this. If your VPN is online it also provides a SOCKS5 proxy on a
@@ -208,44 +206,46 @@
 - [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
 
-# System
-- You want your cache to be a tmpfs which means it lives in RAM -> faster and
-deletes itself at reboot.
-```
-## Delete your cache
-rm -r $HOME/.cache/*
-# put this in your /etc/fstab (change <your user name>)
-tmpfs	/home/<your user name>/.cache	tmpfs	noatime,nodev,nosuid,size=1G
-# mount the tmpfs
-sudo mount -a
-```
-
-## Other usefull security things to use
-- https://wiki.archlinux.org/index.php/Security
+## Linux 
 - full disk encryption
-- firejail
-- apparmor
-- ubount
 - linux hardened kernel
-- systemd-nspawn
-- tinc
-- wireguard
-- openvpn
-- ipfs
-- sshfs
-- dig
-- masscan
-- zmap
-- netcat
-- iptables
-- socat
-- encfs
+- [Security](https://wiki.archlinux.org/index.php/Security)
+- [firejail](https://wiki.archlinux.org/index.php/Firejail) -  running environment of untrusted applications using Linux namespaces
+- [apparmor](https://wiki.archlinux.org/index.php/AppArmor) - enforcing a specific rule set on a per application basis
+- [systemd-nspawn](https://wiki.archlinux.org/index.php/Systemd-nspawn) - may be used to run a command or OS in a light-weight namespace container
+- [unbound](https://wiki.archlinux.org/index.php/Unbound) - local DNS cach
+- [tinc](https://wiki.archlinux.org/index.php/Tinc) - VPN daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet.
+- [wireguard](https://www.wireguard.com/) - VPN client
+- [openvpn](https://wiki.archlinux.org/index.php/OpenVPN) - VPN client
+- [sshfs] -  client for mounting remote directories over a Secure Shell connection
+- [masscan](https://github.com/robertdavidgraham/masscan) - IP port scanner (monitor your own network)
+- [zmap](https://zmap.io/) - collection of tools that enable researchers to perform large-scale studies of the hosts and services 
+- [iptables](https://wiki.archlinux.org/index.php/Iptables) - advanced firewall
+- [ufw](https://help.ubuntu.com/community/UFW) - simple firewall for debian based linux derivatives
+- [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8) - simple firewall for centos type linux derivatives
+- [encfs](https://github.com/vgough/encfs) - encrypted Filesystem
+- [creat_ap](https://github.com/oblique/create_ap) - Create an access point for others to connet to the internet
+- [mac adress spoofing](https://wiki.archlinux.org/index.php/MAC_address_spoofing)
+- [dig](https://linux.die.net/man/1/dig) - DNS lookup utility 
+- [socat](https://linux.die.net/man/1/socat) - multipurpose relay (SOcket CAT) 
+- [netcat](https://linux.die.net/man/1/nc) - arbitrary TCP and UDP connections and listens 
+- You want your cache to be a tmpfs which means it lives in RAM -> faster and
+  deletes itself at reboot.
+  ```
+  ## Delete your cache
+  rm -r $HOME/.cache/*
+  # put this in your /etc/fstab (change <your user name>)
+  tmpfs	/home/<your user name>/.cache	tmpfs	noatime,nodev,nosuid,size=1G
+  # mount the tmpfs
+  sudo mount -a
+  ```
 
 # Other sites
 - [Opensource ecology](https://www.opensourceecology.org/)
 - [riseup](https://riseup.net)
 - [EFF](https://www.eff.org/)
 - [libre-soc](https://libre-soc.org/) - open source hardware project
+- [ipfs](https://ipfs.io/) - Distributed Web
 
 # Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
@@ -260,6 +260,7 @@ sudo mount -a
 - [zero days](https://youtu.be/PJBBRUraKgo) -  Stuxnet, computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility
 - [the intenets own boy](https://youtu.be/9vz06QO3UkQ) - Aaron Swartz
 - [Cambridge Analytica Uncovered: Secret filming reveals election tricks](https://youtu.be/mpbeOCKZFfQ)
+- [WikiLeaks – public enemy Julian Assange](https://youtu.be/pgw6FoFPhjo)
 
 # Security videos from CCC
 > Some videos on security, hacking, privacy
@@ -270,6 +271,8 @@ sudo mount -a
 - [do you thing thats funny](https://media.ccc.de/v/30C3_-_5376_-_en_-_saal_1_-_201312271130_-_do_you_think_that_s_funny_-_lizvlx)
 - [advanced_interconnect_attacks](https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks)
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
+- [Technical aspects of the surveillance in and around the Ecuadorian embassy in
+  London](https://media.ccc.de/v/36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london) - Details about the man hunt for Julian Assange and Wikileaks
 - < ADD CCC LAST BIT OF CCC VIDS HERE >
 
 # Youtube
