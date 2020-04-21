@@ -36,7 +36,7 @@
   - Amazon
   - etc..
 > Basically these companies do not respect our basic privacy rights nor are they 
-> honest. They are creating an unjust surveillanced prison state only through 
+> honest. They are helping to creating an unjust surveillanced prison state only through 
 > our empowerment. There are great alternatives for 90% of things, its basically 
 > only open source hardware that is lacking and people willing to do the right thing.
  
@@ -63,8 +63,8 @@
 
 ## Youtube alternatives
 >Youtube does not support freespeech and may remove your videos if they dont like
->it
->These dont have ads, algorythms
+>it.
+>These dont have ads nor algorythms to supress or promote information
 - [lbry](https://lbry.tv/) - Decentrilised
 - [bitchute](https://www.bitchute.com/)
 - [bittube](https://bittube.tv/)
