@@ -23,7 +23,7 @@
   - [Related Awesome lists](#related-awesome-lists)
   - [Documentries](#documentries)
   - [Security videos from CCC](#security-videos-from-ccc)
-  - [Youtube](#Youtube)
+  - [Basic privacy tutorials](#basic-privacy-tutorials)
   - [Articles](#Articles)
   - [License](#liscense)
 
@@ -245,7 +245,8 @@
 - [riseup](https://riseup.net)
 - [EFF](https://www.eff.org/)
 - [libre-soc](https://libre-soc.org/) - open source hardware project
-- [ipfs](https://ipfs.io/) - Distributed Web
+- [ipfs](https://ipfs.io/) - distributed web
+- [edri](https://edri.org/newsletters/) - european digital rights
 
 # Related awesome lists
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
@@ -260,7 +261,6 @@
 - [zero days](https://youtu.be/PJBBRUraKgo) -  Stuxnet, computer malware that the U.S. and Israel unleashed to destroy a key part of an Iranian nuclear facility
 - [the intenets own boy](https://youtu.be/9vz06QO3UkQ) - Aaron Swartz
 - [Cambridge Analytica Uncovered: Secret filming reveals election tricks](https://youtu.be/mpbeOCKZFfQ)
-- [WikiLeaks – public enemy Julian Assange](https://youtu.be/pgw6FoFPhjo)
 
 # Security videos from CCC
 > Some videos on security, hacking, privacy
@@ -273,7 +273,7 @@
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
 - [Surveillance in and around the Ecuadorian embassy in London](https://media.ccc.de/v/36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london) - Details about the man hunt for Julian Assange and Wikileaks
 
-# Youtube
+# Basic privacy tutorials
 - [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
 - [Ultimate smartphone security guide | How to secure your phone tutorial](https://youtu.be/m_SN1CB3Kts)
 - [How to protect privacy on your phone in 5 minutes | Tutorial for normies](https://youtu.be/tkY9dhOF2WU)
