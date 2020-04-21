@@ -217,7 +217,7 @@
 - [tinc](https://wiki.archlinux.org/index.php/Tinc) - VPN daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet.
 - [wireguard](https://www.wireguard.com/) - VPN client
 - [openvpn](https://wiki.archlinux.org/index.php/OpenVPN) - VPN client
-- [sshfs] -  client for mounting remote directories over a Secure Shell connection
+- [sshfs](https://wiki.archlinux.org/index.php/SSHFS) -  client for mounting remote directories over a Secure Shell connection
 - [masscan](https://github.com/robertdavidgraham/masscan) - IP port scanner (monitor your own network)
 - [zmap](https://zmap.io/) - collection of tools that enable researchers to perform large-scale studies of the hosts and services 
 - [iptables](https://wiki.archlinux.org/index.php/Iptables) - advanced firewall
@@ -271,9 +271,7 @@
 - [do you thing thats funny](https://media.ccc.de/v/30C3_-_5376_-_en_-_saal_1_-_201312271130_-_do_you_think_that_s_funny_-_lizvlx)
 - [advanced_interconnect_attacks](https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks)
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
-- [Technical aspects of the surveillance in and around the Ecuadorian embassy in
-  London](https://media.ccc.de/v/36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london) - Details about the man hunt for Julian Assange and Wikileaks
-- < ADD CCC LAST BIT OF CCC VIDS HERE >
+- [Surveillance in and around the Ecuadorian embassy in London](https://media.ccc.de/v/36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london) - Details about the man hunt for Julian Assange and Wikileaks
 
 # Youtube
 - [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
