@@ -13,8 +13,8 @@
     - [Email](#email)
   - [Web browsers](#web-browsers)
     - [Browser extensions](#browser-extensions)
-  - [OS](#OS)
-  - [PhoneOS](#Phone-OS)
+  - [Operating Systems](#operating-systems)
+  - [PhoneOS/Roms](#Phone-OS/Roms)
   - [Andriod Apps](#Andriod-apps)
   - [Password managers](#Password-managers)
   - [Other](#Other)
@@ -165,7 +165,7 @@
 
 - [VPN Comparison list](https://thatoneprivacysite.net/)
 
-## OS
+## Operating Systems
 > Use GNU/Linux ! There are many many different flavours to choose from
 depending on your needs and wants.
 - [TailsOS](https://tails.boum.org/) - Most secure and private, boots off a usb
@@ -188,7 +188,7 @@ depending on your needs and wants.
   - [Parabola](https://www.parabola.nu/)
   - etc..
 
-## Phone OS
+## Phone OS/Roms
 - [LineageOS](https://lineageos.org) - Android fork without google dependencies (you can install them optionally).
 - [GrapheneOS](https://grapheneos.org/) -  Android-based, security-hardened, privacy focused (can't insall google dependencies)
 
