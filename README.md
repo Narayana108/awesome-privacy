@@ -268,9 +268,10 @@ depending on your needs and wants.
 - [edri](https://edri.org/newsletters/) - european digital rights
 
 # Related awesome lists
-- [awesome-vpn](https://github.com/hugetiny/awesome-vpn) A curated list of awesome free VPNs and proxies.
-- [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) Limiting personal data leaks on the internet
-- [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) A curated list of links and tips, to protect privacy and improve security
+- [privacy tools](https://www.privacytools.io/) - Really epic compehensive list of tools 
+- [awesome-vpn](https://github.com/hugetiny/awesome-vpn) - A curated list of awesome free VPNs and proxies.
+- [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - Limiting personal data leaks on the internet
+- [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - A curated list of links and tips, to protect privacy and improve security
 - [Awesome anti censorship list](https://github.com/danoctavian/awesome-anti-censorship)
 - [Awesome list of piracy](https://github.com/Igglybuff/awesome-piracy#how-to-use-this-list)
 - [Complete list of Google alternatives](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html)
@@ -290,6 +291,7 @@ depending on your needs and wants.
 - [advanced_interconnect_attacks](https://media.ccc.de/v/camp2015-6785-advanced_interconnect_attacks)
 - [attacking_end-to-end_email_encryption](https://media.ccc.de/v/35c3-9463-attacking_end-to-end_email_encryption)
 - [Surveillance in and around the Ecuadorian embassy in London](https://media.ccc.de/v/36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london) - Details about the man hunt for Julian Assange and Wikileaks
+- [What we can learn from Hong Kong](https://media.ccc.de/v/36c3-10933-what_the_world_can_learn_from_hongkong)
 
 # Basic privacy tutorials
 - [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
