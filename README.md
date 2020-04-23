@@ -243,7 +243,7 @@ depending on your needs and wants.
 - [iptables](https://wiki.archlinux.org/index.php/Iptables) - advanced firewall
 - [ufw](https://help.ubuntu.com/community/UFW) - simple firewall
 - [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8) - simple firewall
-- [encfs](https://github.com/vgough/encfs) - encrypted filesystem
+- [encfs](https://github.com/vgough/encfs) - provides an encrypted filesystem in user-space (created on top of an existing file system)
 - [creat_ap](https://github.com/oblique/create_ap) - Create an access point for others to connet to
 - [mac adress spoofing](https://wiki.archlinux.org/index.php/MAC_address_spoofing)
 - [dig](https://linux.die.net/man/1/dig) - DNS lookup utility 
