@@ -89,10 +89,11 @@
 - [Ekiga](http://www.ekiga.org/)
 
 ## Email
->Email is not secure ! Avoid email if possible. If it cant be avoided Use OpenPGP
->which is still vulnarable to hacks. Being careful with attachments, Disabling
->HTML, decrypting and encypting
->emails outside of the mailclient can help prevent some hacks.
+>Email is not secure ! Avoid email if possible. If it cant be avoided use
+>OpenPGP to encrypt your email, but even OpenPGP is still vulnarable to some hacks. 
+>The follow can also help prevent some hacks: 
+>1. Be careful with attachments 2. Disable HTML
+>3. decrypt and encypt emails outside of the mailclient 
 
 >I would recommend
 >posteo.de or mailbox.org (1 Euro / month).
