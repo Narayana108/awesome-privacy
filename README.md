@@ -90,7 +90,8 @@
 
 ## Email
 >Email is not secure ! Avoid email if possible. If it cant be avoided Use OpenPGP
->which is still vulnarable to hacks. Disabling HTML and decrypting and encypting
+>which is still vulnarable to hacks. Being careful with attachments, Disabling
+>HTML, decrypting and encypting
 >emails outside of the mailclient can help prevent some hacks.
 
 >I would recommend
