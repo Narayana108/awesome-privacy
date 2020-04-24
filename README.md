@@ -1,4 +1,4 @@
-ing # Awesome Privacy
+# Awesome Privacy
 > A list of opensource privacy centered software, tools and web sites
 
 - [Awesome Privacy](#awesome-privacy)
