@@ -293,11 +293,11 @@ depending on your needs and wants.
 - [Surveillance in and around the Ecuadorian embassy in London](https://media.ccc.de/v/36c3-11247-technical_aspects_of_the_surveillance_in_and_around_the_ecuadorian_embassy_in_london) - Details about the man hunt for Julian Assange and Wikileaks
 - [What we can learn from Hong Kong](https://media.ccc.de/v/36c3-10933-what_the_world_can_learn_from_hongkong)
 
+# Other resources
+- [The Hated One Youtube Channel](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/featured) - epic resources containing all you need to know about privacy
+- [Stop using Facebook](https://www.stopusingfacebook.co/) 
+ 
 # Basic privacy tutorials
 - [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
 - [Ultimate smartphone security guide | How to secure your phone tutorial](https://youtu.be/m_SN1CB3Kts)
 - [How to protect privacy on your phone in 5 minutes | Tutorial for normies](https://youtu.be/tkY9dhOF2WU)
-
-# Articles
-- [Google tracks you everywhere](https://www.forbes.com/sites/johnkoetsier/2020/03/11/google-is-tracking-you-on-86-of-the-top-50000-websites-on-the-planet/#40691ed9750f)
-- [Third party trackers in mobile apps](https://arxiv.org/pdf/1804.03603.pdf)
