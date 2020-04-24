@@ -89,8 +89,11 @@
 - [Ekiga](http://www.ekiga.org/)
 
 ## Email
->Use GPG mail if you know how.
->Some don't cost anything, but I would recommend
+>Email is not secure ! Avoid email if possible. If it cant be avoided Use OpenPGP
+>which is still vulnarable to hacks. Disabling HTML and decrypting and encypting
+>emails outside of the mailclient can help prevent some hacks.
+
+>I would recommend
 >posteo.de or mailbox.org (1 Euro / month).
 >Never take an American, Australian, Canadian, British or New Zealandish provider.
 >European online privacy laws are the best at the moment. The Netherlands are
@@ -285,7 +288,7 @@ depending on your needs and wants.
 - [What we can learn from Hong Kong](https://media.ccc.de/v/36c3-10933-what_the_world_can_learn_from_hongkong)
 
 # Other resources
-- [The Hated One Youtube Channel](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/featured) - epic resources containing all you need to know about privacy
+- [The Hated One Youtube Channel](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/featured) - epic resource containing all you need to know about privacy
 - [Stop using Facebook](https://www.stopusingfacebook.co/) 
  
 # Basic privacy tutorials
