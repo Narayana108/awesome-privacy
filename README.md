@@ -18,12 +18,12 @@
   - [Andriod Apps](#andriod-apps)
   - [Password managers](#password-managers)
   - [Linux Tools](#Linux-tools)
-  - [Other sites](#other-sites)
   - [Related Awesome lists](#related-awesome-lists)
   - [Documentries](#documentries)
   - [Relative videos from CCC](#relative-videos-from-ccc)
+  - [Other resources](#other-resources)
   - [Basic privacy tutorials](#basic-privacy-tutorials)
-  - [Articles](#Articles)
+  - [Other sites](#other-sites)
 
 # Things to avoid
 - All services and products from big evil monopolies like these:
@@ -258,15 +258,6 @@ depending on your needs and wants.
   tmpfs	/home/<your user name>/.cache	tmpfs	noatime,nodev,nosuid,size=1G
   # mount the tmpfs sudo mount -a
   ```
-
-# Other sites
-- [Opensource ecology](https://www.opensourceecology.org/)
-- [riseup](https://riseup.net)
-- [EFF](https://www.eff.org/)
-- [libre-soc](https://libre-soc.org/) - open source hardware project
-- [ipfs](https://ipfs.io/) - distributed web
-- [edri](https://edri.org/newsletters/) - european digital rights
-
 # Related awesome lists
 - [privacy tools](https://www.privacytools.io/) - Really epic compehensive list of tools 
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) - A curated list of awesome free VPNs and proxies.
@@ -301,3 +292,11 @@ depending on your needs and wants.
 - [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
 - [Ultimate smartphone security guide | How to secure your phone tutorial](https://youtu.be/m_SN1CB3Kts)
 - [How to protect privacy on your phone in 5 minutes | Tutorial for normies](https://youtu.be/tkY9dhOF2WU)
+
+# Other sites
+- [Opensource ecology](https://www.opensourceecology.org/)
+- [riseup](https://riseup.net)
+- [EFF](https://www.eff.org/)
+- [libre-soc](https://libre-soc.org/) - open source hardware project
+- [ipfs](https://ipfs.io/) - distributed web
+- [edri](https://edri.org/newsletters/) - european digital rights
