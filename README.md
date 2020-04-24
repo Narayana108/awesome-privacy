@@ -95,6 +95,7 @@
 >1. Be careful with attachments 
 >2. Disable HTML
 >3. decrypt and encypt emails outside of the mailclient 
+>4. Don't cite text in reply
 
 >I would recommend
 >posteo.de or mailbox.org (1 Euro / month).
