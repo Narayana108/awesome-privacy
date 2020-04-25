@@ -96,6 +96,7 @@
 >2. Disable HTML
 >3. decrypt and encypt emails outside of the mailclient 
 >4. Don't cite text in reply
+>5. Use mutt or neomutt email client
 
 >I would recommend
 >posteo.de or mailbox.org (1 Euro / month).
@@ -174,6 +175,7 @@
 > Use GNU/Linux ! There are many many different flavours to choose from
 depending on your needs and wants.
 - [TailsOS](https://tails.boum.org/) - Most secure and private, boots off a usb
+- [QubeOS](https://www.qubes-os.org/) - Most secure and private, boots off a usb
 - [distrowatch](https://distrowatch.com/) - A list of the most popular GNU/Linux OS's 
 - Beginners: 
   - [Manjaro Linux](https://manjaro.org/)
