@@ -318,3 +318,5 @@ depending on your needs and wants.
 - [libre-soc](https://libre-soc.org/) - open source hardware project
 - [ipfs](https://ipfs.io/) - distributed web
 - [edri](https://edri.org/newsletters/) - european digital rights
+
+### Feel free to make a pull request to improve this list :)
