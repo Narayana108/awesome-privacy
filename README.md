@@ -175,7 +175,7 @@
 > Use GNU/Linux ! There are many many different flavours to choose from
 depending on your needs and wants.
 - [TailsOS](https://tails.boum.org/) - Most secure and private, boots off a usb
-- [QubeOS](https://www.qubes-os.org/) - Most secure and private, boots off a usb
+- [QubeOS](https://www.qubes-os.org/) - Also very secure and private
 - [distrowatch](https://distrowatch.com/) - A list of the most popular GNU/Linux OS's 
 - Beginners: 
   - [Manjaro Linux](https://manjaro.org/)
@@ -229,10 +229,12 @@ depending on your needs and wants.
 - [KeepassXC](https://keepassxc.org/)
 - [gopass](https://www.gopass.pw/) - team sharing cli password manager
 
-## Others
+## Other
+- [Uberspace](https://uberspace.de/en/) - really epic sever provider(shared server hosting)
 - [Nextcloud](https://www.nextcloud.com) - self-hosted productivity platform
 - [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
+- [Pastebin](https://privatebin.info/) --  server has zero knowledge of pasted data
 
 ## Linux Tools
 - full disk encryption
