@@ -319,4 +319,6 @@ depending on your needs and wants.
 - [ipfs](https://ipfs.io/) - distributed web
 - [edri](https://edri.org/newsletters/) - european digital rights
 
-### Feel free to make a pull request to improve this list :)
+
+
+#### Feel free to make a pull request to improve this list :)
