@@ -17,6 +17,8 @@
   - [Andriod Roms](#andriod-roms)
   - [Andriod Apps](#andriod-apps)
   - [Password managers](#password-managers)
+  - [Hosting](#hosting)
+  - [Pastebin](#pastebin)
   - [Other](#other)
   - [Linux Tools](#Linux-tools)
   - [Related Awesome lists](#related-awesome-lists)
@@ -230,9 +232,13 @@ depending on your needs and wants.
 - [KeepassXC](https://keepassxc.org/)
 - [gopass](https://www.gopass.pw/) - team sharing cli password manager
 
-## Other
-- [Privatebin](https://privatebin.info/) -  pastebin, server has zero knowledge of pasted data
+## Hosting
 - [Uberspace](https://uberspace.de/en/) - really epic sever provider(shared server hosting)
+
+## Pastebin
+- [Privatebin](https://privatebin.info/) -  pastebin, server has zero knowledge of pasted data
+
+## Other
 - [Nextcloud](https://www.nextcloud.com) - self-hosted productivity platform
 - [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
