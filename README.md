@@ -231,11 +231,11 @@ depending on your needs and wants.
 - [gopass](https://www.gopass.pw/) - team sharing cli password manager
 
 ## Other
+- [Privatebin](https://privatebin.info/) -  pastebin, server has zero knowledge of pasted data
 - [Uberspace](https://uberspace.de/en/) - really epic sever provider(shared server hosting)
 - [Nextcloud](https://www.nextcloud.com) - self-hosted productivity platform
 - [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
-- [Pastebin](https://privatebin.info/) --  server has zero knowledge of pasted data
 
 ## Linux Tools
 - full disk encryption
