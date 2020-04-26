@@ -49,7 +49,7 @@
 - Promote and use privacy first software
 - Promote and use blockchain and decentralisation
 - Educate yourself and become more technology concious. Its good to know where your food comes from right?  
-- Pray and meditate as per your religion or path and eat good healthy vegeterian foods.
+- Pray and meditate as per your spiritual path and eat good healthy vegeterian foods.
   
 # Search engines
 > Google alternatives
