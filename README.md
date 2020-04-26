@@ -34,7 +34,6 @@
   - Microsoft
   - Google, Youtube, Gmail, etc
   - Facebook & Whatsapp
-  - Amazon
   - etc..
 > Basically these companies do not respect our basic privacy rights nor are they 
 > transparent. They are helping to creating an unjust surveillanced state only through 
