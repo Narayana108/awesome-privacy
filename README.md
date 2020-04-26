@@ -37,8 +37,8 @@
   - Amazon
   - etc..
 > Basically these companies do not respect our basic privacy rights nor are they 
-> honest. They are helping to creating an unjust surveillanced prison state only through 
-> our empowerment. There are great alternatives for 90% of things, its basically 
+> transparent. They are helping to creating an unjust surveillanced state only through 
+> our empowerment. There are great alternatives for 80% of things, its basically 
 > just open source hardware and people willing to do the right thing that is lacking
  
 # Things to do
