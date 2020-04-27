@@ -36,9 +36,9 @@
   - Facebook & Whatsapp
   - Amazon
   - etc..
-> Basically these companies do not respect our basic privacy rights nor are they 
-> transparent. They are helping to creating an unjust surveillanced state only through 
-> our empowerment. There are great alternatives for 80% of things, its basically 
+> There business practices/ethics/values promote the expoitation of users and
+> create a society you don't want to live in.
+> There are great alternatives for 80% of things, its basically 
 > just open source hardware and people willing to do the right thing that is lacking
  
 # Things to do
