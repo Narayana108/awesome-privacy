@@ -23,7 +23,7 @@
   - [Linux Tools](#Linux-tools)
   - [Related Awesome lists](#related-awesome-lists)
   - [Documentries](#documentries)
-  - [Relative videos from CCC](#relative-videos-from-ccc)
+  - [Related videos from CCC](#related-videos-from-ccc)
   - [Other resources](#other-resources)
   - [Basic privacy tutorials](#basic-privacy-tutorials)
   - [Other sites](#other-sites)
@@ -290,7 +290,7 @@ depending on your needs and wants.
 - [the intenets own boy](https://youtu.be/9vz06QO3UkQ) - Aaron Swartz
 - [Cambridge Analytica Uncovered: Secret filming reveals election tricks](https://youtu.be/mpbeOCKZFfQ)
 
-# Relative Videos from CCC
+# Related Videos from CCC
 > Some videos on security, hacking, privacy
 - [security_analysis_of_estonia_s_internet_voting_system](https://media.ccc.de/v/31c3_-_6344_-_en_-_saal_1_-_201412281400_-_security_analysis_of_estonia_s_internet_voting_system_-_j_alex_halderman)
 - [where_in_the_world_is_carmen_sandiego](https://media.ccc.de/v/33c3-7964-where_in_the_world_is_carmen_sandiego)
