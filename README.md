@@ -43,8 +43,7 @@
  
 # Things to do
 > Use software created by the people for the people.
-> Lets protect our freedom of speech which is under attack right now before we
-> end up like China, which is just a taste of whats coming.
+> Lets protect our freedom of speech and privacy rights
 - Promote and use open source technologies
 - Promote and use privacy first software
 - Promote and use blockchain and decentralisation
