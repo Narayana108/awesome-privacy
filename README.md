@@ -29,7 +29,7 @@
   - [Other sites](#other-sites)
 
 # Things to avoid
-- All services and products from big evil monopolies like these:
+- All services and products from big monopolies like these:
   - Apple
   - Microsoft
   - Google, Youtube, Gmail, etc
