@@ -58,9 +58,9 @@
 
 # Communication
 ## Chat
-- [Riot](https://riot.im) - Feature rich, encrypted chat messenger for phone and pc simalar
-- [Keybase](https://keybase.io/) - Feature rich, encrypted chat messenger for phone and pc simalar
-- [Semaphor](https://spideroak.com/semaphor/) - Feature rich, encrypted chat messenger for phone and pc simalar
+- [Riot](https://riot.im) - Feature rich, encrypted chat messenger for phone and pc
+- [Keybase](https://keybase.io/) - Feature rich, encrypted chat messenger for phone and pc
+- [Semaphor](https://spideroak.com/semaphor/) - Feature rich, encrypted chat messenger for phone and pc
 
 ## Youtube alternatives
 >Youtube does not support freespeech and may remove your videos if they dont like
