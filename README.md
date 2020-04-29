@@ -276,6 +276,7 @@ depending on your needs and wants.
   # mount the tmpfs sudo mount -a
   ```
 # Related awesome lists
+- [alternate-internet](https://github.com/redecentralize/alternative-internet) - This is gold !
 - [privacy tools](https://www.privacytools.io/) - Really epic compehensive list of tools 
 - [awesome-vpn](https://github.com/hugetiny/awesome-vpn) - A curated list of awesome free VPNs and proxies.
 - [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - Limiting personal data leaks on the internet
