@@ -11,6 +11,7 @@
     - [Social Media](#social-media)
     - [Video](#video)
     - [Email](#email)
+  - [Distributed Web](#distributed-web)
   - [Web Browsers](#web-browsers)
   - [Web Browser extensions](#web-browser-extensions)
   - [Operating Systems](#operating-systems)
@@ -71,6 +72,7 @@
 - [bittube](https://bittube.tv/)
 - [dtube](https://d.tube/) - you can change the video quality here 
 - [Invidious](https://www.invidio.us) - watch youtube anonymously
+- [libretube](https://libre.tube)
 
 ## Social Media
 >Facebook and twitter do no support freespeech, your content may be removed if
@@ -120,6 +122,9 @@
 - [mutt](http://www.mutt.org/) - cli based email client
 - [neomutt](https://neomutt.org/) - cli based email client
 
+## Distributed web
+- [zeronet](https://zeronet.io/) - decrentrilezed internet and web hosting
+- [ipfs](https://ipfs.io/) - distributed web
 
 ## Web Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Needs extentions and one can also set more strict privacy browsing rules within preferences
@@ -316,7 +321,6 @@ depending on your needs and wants.
 - [riseup](https://riseup.net)
 - [EFF](https://www.eff.org/)
 - [libre-soc](https://libre-soc.org/) - open source hardware project
-- [ipfs](https://ipfs.io/) - distributed web
 - [edri](https://edri.org/newsletters/) - european digital rights
 
 
