@@ -310,6 +310,7 @@ depending on your needs and wants.
 # Other resources
 - [The Hated One Youtube Channel](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q/featured) - epic resource containing all you need to know about privacy
 - [Stop using Facebook](https://www.stopusingfacebook.co/) 
+- [Fixing Social Media for Good](https://www.youtube.com/watch?v=oOiCACmjKBM)
  
 # Basic privacy tutorials
 - [How to protect your online privacy in 2020 | Tutorial](https://youtu.be/jxeeKKfjb5o)
