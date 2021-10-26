@@ -1,5 +1,5 @@
 # Awesome Privacy
-A list of opensource privacy centred software, tools, hardware, services and web sites.
+A list of opensource privacy centred software, tools, hardware, services, web sites and educational resources.
 
 *This list is very lenient list meant for people on all levels.*
 
