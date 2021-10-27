@@ -45,12 +45,14 @@ A list of opensource privacy centred software, tools, hardware, services, web si
   - Amazon
   - Twitter
   - etc..
-> These large monopolies promote the exploitation of users and they are 
-> controlling the internet and what information may be displayed.
-> They have no ideology other than greed.
+> The internet has become colonized with a small number of companies 
+> controlling the flow of information and explioting its users. 
+> Their ideologies are centerend around greed and control.
 > Governments also cant keep them accountable for their actions for a few 
 > reasons, one being large corporations control the governments through 
-> money and they work hand in hand.
+> money and they work hand in hand together.
+
+
 
  
 # Things to do
@@ -80,6 +82,7 @@ A list of opensource privacy centred software, tools, hardware, services, web si
 - [dtube](https://d.tube/) - you can change the video quality here 
 - [Invidious](https://www.invidio.us) - watch youtube anonymously
 - [libretube](https://libre.tube)
+- [odysee](https://odysee.com/)
 
 ## Social Media
 >Facebook and twitter do no support free speech, your content may be removed if
@@ -98,6 +101,7 @@ A list of opensource privacy centred software, tools, hardware, services, web si
 - [jitsi](https://jitsi.org/)
 - [Tox](https://tox.chat)
 - [Ekiga](http://www.ekiga.org/)
+- [Jami](https://jami.net/) 
 
 ## Email
 >Email is not secure ! Avoid email if possible. If it cant be avoided use
