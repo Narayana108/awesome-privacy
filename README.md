@@ -179,15 +179,15 @@ A list of opensource privacy centred software, tools, hardware, services, web si
 >won't be able to send requests. You want this for your whole system and all 
 >applications. Read about this or ask me.
 
->I really like mullvad.net. Mainly for 3 reasons: a) I can pay in cash b) besides
->openVPN they offer wireguard (this deserves a whole section) c) really good support
+>I really like mullvad.net. Besides openVPN they offer 
+>wireguard (this deserves a whole section) c) really good support
 
 >Don't trust free services.
 
 >If you can, use Tor instead of a VPN, its much more secure and private, tho it
 >is slower
 
-- [VPN Comparison list](https://thatoneprivacysite.net/)
+- [VPN Comparison list](https://docs.google.com/spreadsheets/d/1L72gHJ5bTq0Djljz0P-NCAaURrXwsR1MsLpVmAt3bwg/edit#gid=0)
 
 # Operating Systems
 > Use GNU/Linux ! There are many many different flavours to choose from
