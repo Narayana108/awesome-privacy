@@ -95,6 +95,7 @@ A list of opensource privacy centred software, tools, hardware, services, web si
   crypto currency for your content
 - [steemit](https://steemit.com) - blockchain social media platform - cross between 
   Reddit and Quora - you can earn crypto currency for your content
+- [InstaPV](https://www.instapv.ai/) - anonymous Instagram viewer for public stories, posts, reels and highlights — no login, no password, no tracking
 
 ## Video
 > Video conferencing software and chat
