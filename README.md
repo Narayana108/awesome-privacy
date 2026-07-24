@@ -156,6 +156,7 @@ A list of opensource privacy centred software, tools, hardware, services, web si
 - [Random user agent](https://addons.mozilla.org/en-US/firefox/addon/random_user_agent/)
 - [umatix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/?src=search)- deny cookies, XHR, frames, scripts also for first parties, activate is manually only if necessary
 - [decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?src=search) - protection against tracking
+- [Spoof Me for Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) / [Spoof Me for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/) - Browser extension for inspecting and modifying browser fingerprint signals, including user agent, language, timezone, screen size, Canvas, and WebGL.
 
 # Other browser settings
 - https://github.com/pyllyukko/user.js - take your time with this one
