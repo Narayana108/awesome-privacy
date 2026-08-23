@@ -258,6 +258,7 @@ depending on your needs and wants.
 - [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
 - [LibremOne](https://librem.one/) - paid for secure chat, email, vpn, social media, etc.
+- [MetadataRemover.ai](https://metadataremover.ai/) - Open-source browser toolkit that inspects and removes supported file metadata locally without uploads or an account.
 
 # Hardware
 - https://www.pine64.org/ - Opensource phones, laptops, smartwatches, IOT, IP camera, etc
