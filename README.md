@@ -123,6 +123,7 @@ A list of opensource privacy centred software, tools, hardware, services, web si
 >Create an alias or temporary alias for every website (like takealot.co.za) you
 >create a new account. I know, this is cumbersome, but there is no other way
 >around.
+- [Forward Email](https://forwardemail.net) (@forwardemail) - the 100% open-source and privacy-focused email service.
 - [ProtonMail](https://protonmail.com/) - Secure email based in Switzerland.
 - [Tutanota](https://tutanota.com) - Based in Germany – 1 GB free; 10 GB Pro
 - [Postio](https://posteo.de)
