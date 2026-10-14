@@ -357,6 +357,7 @@ We are “as close to free software foundations respects your freedom as possibl
 - [EFF](https://www.eff.org/)
 - [libre-soc](https://libre-soc.org/) - open source hardware project
 - [edri](https://edri.org/newsletters/) - European digital rights
+- [XChat Directory](https://xchat.directory) - Encrypted messenger comparison directory (Signal, Session, SimpleX, Element, and more)
 
 
 
