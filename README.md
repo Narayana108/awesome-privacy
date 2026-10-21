@@ -260,6 +260,7 @@ depending on your needs and wants.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
 - [LibremOne](https://librem.one/) - paid for secure chat, email, vpn, social media, etc.
 - [MetadataRemover.ai](https://metadataremover.ai/) - Open-source browser toolkit that inspects and removes supported file metadata locally without uploads or an account.
+- [Koru](https://github.com/koruworks/mono) - Open-source, local-first notes and documents app for Windows and macOS. No account needed, works offline, keeps data in a local database on the device and syncs devices peer-to-peer.
 
 # Hardware
 - https://www.pine64.org/ - Opensource phones, laptops, smartwatches, IOT, IP camera, etc
