@@ -260,6 +260,8 @@ depending on your needs and wants.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
 - [LibremOne](https://librem.one/) - paid for secure chat, email, vpn, social media, etc.
 - [MetadataRemover.ai](https://metadataremover.ai/) - Open-source browser toolkit that inspects and removes supported file metadata locally without uploads or an account.
+- [Hosts File Website Blocker Generator](https://github.com/oneguo-boop/hosts-file-website-blocker-generator) - Open-source (MIT) offline single-file utility that generates IPv4 + IPv6 `/etc/hosts` website blocklists with zero network requests.
+- [ChatGPT & Claude JSON to Markdown](https://github.com/oneguo-boop/chatgpt-claude-json-to-markdown) - Open-source (MIT) offline browser converter that turns ChatGPT `.zip` and Claude `conversations.json` exports into local Markdown notes.
 
 # Hardware
 - https://www.pine64.org/ - Opensource phones, laptops, smartwatches, IOT, IP camera, etc
